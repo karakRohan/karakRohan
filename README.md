@@ -2,64 +2,67 @@
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF90&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+to+build+Frontend+UIs.;Always+learning+new+things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=900&color=00FFF7&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub!;I+love+building+web+applications.;Always+learning+new+things!" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karakRohan&label=Profile+Views&color=0e75b6&style=flat" alt="karakRohan" />
+  <img src="https://komarev.com/ghpvc/?username=karakRohan&label=🚀+Profile+Views&color=00C9FF&style=for-the-badge" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me  
+<h2 align="center">💫 About Me 💫</h2>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" alt="Coding GIF" width="200"/>
-</p>
-
-- 🔭 I’m currently working on **Full Stack Projects**  
-- 🌱 Exploring **React.js** and **Node.js**  
-- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**  
-- 📢 Reach me: **[karakrohan2005@gmail.com]**  
-- 🔗 <a href="https://www.linkedin.com/in/rohan-karak-9a0b78288/">LinkedIn</a>  
-
----
-
-### 🚀 Tech Stack  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,bootstrap,git,github,vscode" />
+  🔭 Currently working on <b>Full Stack Web Development</b><br/>
+  🌱 Learning <b>MERN Stack & Java DSA</b><br/>
+  👯 Open to collaborate on <b>Web & AI Projects</b><br/>
+  💬 Ask me about <b>JavaScript, Java, C, React</b><br/>
+  📍 Based in <b>India</b>
 </p>
 
 ---
 
-### 📈 GitHub Stats  
+<h2 align="center">🖇️ Connect With Me 🖇️</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karakRohan&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karakRohan&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" width="47%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=karakRohan&theme=tokyonight&hide_border=true&border_radius=10" width="98%"/>
-</p>
-
----
-
-
-### 🐍 Dynamic Snake Contribution Graph  
-
-<p align="center">
-  <img src="https://github.com/karakRohan/karakRohan/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
+  <a href="https://www.linkedin.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" />
+  </a>
+  <a href="https://www.instagram.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" />
+  </a>
 </p>
 
 ---
 
-### 📬 Connect with Me  
+<h2 align="center">🛠️ Languages & Tools 🛠️</h2>
 
 <p align="center">
-  <a href="mailto:karakrohan2005@gmail.com"><img src="https://img.shields.io/badge/-Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/rohan-karak-9a0b78288/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/karakRohan"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,bootstrap,react,redux,vite,nodejs,express,npm,mysql,mongo,git,github,postman,tailwind,nextjs,ts,firebase,vercel,appwrite,vscode,idea&perline=12" />
 </p>
+
+---
+
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=karakRohan&show_icons=true&theme=radical&hide_border=true" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karakRohan&layout=compact&theme=radical&hide_border=true" height="160" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats-flax.vercel.app/?user=karakRohan&theme=radical&hide_border=true" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karakRohan&theme=radical&hide_border=true" />
+</p>
+
+---
+
+<h3 align="center">✨ “Code. Learn. Build. Repeat.” ✨</h3>
