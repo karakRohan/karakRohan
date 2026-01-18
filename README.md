@@ -14,11 +14,16 @@
 <h2 align="center">💫 About Me 💫</h2>
 
 <p align="center">
-  🔭 Currently working on <b>Full Stack Web Development</b><br/>
-  🌱 Learning <b>MERN Stack & Java DSA</b><br/>
-  👯 Open to collaborate on <b>Web & AI Projects</b><br/>
-  💬 Ask me about <b>JavaScript, Java, C, React</b><br/>
+  🔭 I’m currently working on <b>Full Stack Projects</b><br/>
+  🌱 Exploring <b>React.js</b> and <b>Node.js</b><br/>
+  💬 Ask me about <b>JavaScript, React, Node.js, MongoDB</b><br/>
+  📢 Reach me: <b>karakrohan2005@gmail.com</b><br/>
+  🔗 <a href="https://www.linkedin.com/in/rohan-karak-9a0b78288/" target="_blank"><b>LinkedIn</b></a><br/>
   📍 Based in <b>India</b>
+</p>
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" alt="Coding GIF" width="220"/>
 </p>
 
 ---
@@ -26,13 +31,13 @@
 <h2 align="center">🖇️ Connect With Me 🖇️</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/rohan-karak-9a0b78288/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:karakrohan2005@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" />
   </a>
-  <a href="https://www.instagram.com" target="_blank">
+  <a href="https://www.instagram.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" />
   </a>
 </p>
@@ -65,4 +70,4 @@
 
 ---
 
-<h3 align="center">✨ “Code. Learn. Build. Repeat.” ✨</h3>
+<h3 align="center">✨ “Eat(). Sleep(). Code(). Repeat().” ✨</h3>
