@@ -2,72 +2,73 @@
 <h3 align="center">Full Stack Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=900&color=00FFF7&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub!;I+love+building+web+applications.;Always+learning+new+things!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Full+Stack+Developer;Always+Learning+🚀" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=karakRohan&label=🚀+Profile+Views&color=00C9FF&style=for-the-badge" />
-</p>
-
----
-
-<h2 align="center">💫 About Me 💫</h2>
-
-<p align="center">
-  🔭 I’m currently working on <b>Full Stack Projects</b><br/>
-  🌱 Exploring <b>React.js</b> and <b>Node.js</b><br/>
-  💬 Ask me about <b>JavaScript, React, Node.js, MongoDB</b><br/>
-  📢 Reach me: <b>karakrohan2005@gmail.com</b><br/>
-  🔗 <a href="https://www.linkedin.com/in/rohan-karak-9a0b78288/" target="_blank"><b>LinkedIn</b></a><br/>
-  📍 Based in <b>India</b>
-</p>
-
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" alt="Coding GIF" width="220"/>
+  <img src="https://komarev.com/ghpvc/?username=karakRohan&label=Profile+Views&color=0abde3&style=flat-square" />
 </p>
 
 ---
 
-<h2 align="center">🖇️ Connect With Me 🖇️</h2>
+## 💫 About Me
+
+- 🔭 Working on **Full Stack Projects**
+- 🌱 Exploring **React.js & Node.js**
+- 💬 Ask me about **JavaScript, React, Node.js, MongoDB**
+- 📧 Email: **rohankarak42@gmail.com**
+- 📍 Location: **India**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohan-karak-9a0b78288/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" />
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" width="200" />
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/rohan-karak-9a0b78288/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
   </a>
-  <a href="mailto:karakrohan2005@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" />
+  <a href="mailto:rohankarak42@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" />
+  <a href="https://www.instagram.com/rohankarak_79/">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+  <a href="https://www.facebook.com/rohan.karak.2025">
+    <img src="https://skillicons.dev/icons?i=facebook" height="40"/>
   </a>
 </p>
 
 ---
 
-<h2 align="center">🛠️ Languages & Tools 🛠️</h2>
+## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,bootstrap,react,redux,vite,nodejs,express,npm,mysql,mongo,git,github,postman,tailwind,nextjs,ts,firebase,vercel,appwrite,vscode,idea&perline=12" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,js,react,nodejs,express,mongo,mysql,git,github,tailwind,bootstrap,postman,firebase,vercel,vscode&perline=10" />
 </p>
 
 ---
 
-<h2 align="center">📊 GitHub Stats 📊</h2>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karakRohan&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=karakRohan&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karakRohan&layout=compact&theme=radical&hide_border=true" height="160" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats-flax.vercel.app/?user=karakRohan&theme=radical&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karakRohan&layout=compact&theme=tokyonight&hide_border=true" height="155"/>
+  <img src="https://github-readme-streak-stats-flax.vercel.app/?user=karakRohan&theme=tokyonight&hide_border=true" height="155"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karakRohan&theme=radical&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karakRohan&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-<h3 align="center">✨ “Eat(). Sleep(). Code(). Repeat().” ✨</h3>
+<p align="center">
+  <b>✨ Eat. Sleep. Code. Repeat. ✨</b>
+</p>
