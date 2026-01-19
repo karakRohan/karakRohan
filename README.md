@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" alt="Coding GIF" width="220"/>
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" width="220"/>
 </p>
 
 ---
@@ -54,6 +54,36 @@
 
 ---
 
+<h2 align="center">📚 DSA & Coding Profiles 📚</h2>
+
+<p align="center">
+  <a href="https://leetcode.com/u/Code_Rider42/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Code__Rider42-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.geeksforgeeks.org/profile/karakaf5b1" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Rohan_Karak-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">🏅 LeetCode Badges 🏅</h2>
+
+<p align="center">
+  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Code_Rider42&theme=dark" />
+</p>
+
+---
+
+<h2 align="center">📈 LeetCode Stats 📈</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Code_Rider42?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
+</p>
+
+---
+
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
@@ -73,4 +103,5 @@
 ---
 
 <h3 align="center">✨ “Eat(). Sleep(). Code(). Repeat().” ✨</h3>
-<h3 align="center">✨ “🙏 Trusting God’s plan — every step, every decision 🕉️✨” ✨</h3>
+
+<h3 align="center">✨ 🙏 Trusting God’s plan — every step, every decision 🕉️ ✨</h3>
