@@ -87,7 +87,7 @@
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karakRohan&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karakRohan&theme=radical" />
 </p>
 
 <p align="center">
@@ -98,6 +98,16 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=karakRohan&theme=radical&hide_border=true" />
+</p>
+
+---
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karakRohan/karakRohan/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
