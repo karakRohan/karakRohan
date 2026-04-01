@@ -22,6 +22,10 @@
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220"/>
+</p>
+
+<p align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca7d93f1510b1f6c85e22b2b39.gif" width="220"/>
 </p>
 
